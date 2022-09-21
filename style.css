@@ -62,12 +62,12 @@ img{
         0% {
             transform: translate(0, 0);
         } 100% {
-            transform: translate(0rem, -20rem);
+            transform: translate(0rem, -17rem);
         } 
     }
     @keyframes transB {
         0% {
-            transform: translate(0rem, -20rem);
+            transform: translate(0rem, -17rem);
         } 100% {
             transform: translate(0, 0);
         }
